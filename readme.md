@@ -1,0 +1,1 @@
+The project adopts a modular development approach to improve code reuse and maintainability
